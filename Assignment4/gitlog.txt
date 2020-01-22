@@ -1,0 +1,37 @@
+commit 620cc6b0e1daad36143219f3ed0fcaf7fd072122 (HEAD -> master)
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Fri Oct 5 22:23:23 2018 +0200
+
+    working
+
+commit 81cdd409e900c00688bc167125a65e521b76d949
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Thu Oct 4 20:14:46 2018 +0200
+
+    edits
+
+commit 1ce385e7a398933632241da4fc032d198427a259
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Wed Oct 3 14:54:30 2018 +0200
+
+    land edited
+
+commit e70da11f3de66678e8a9c26aa7363479d929b7f9
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Wed Oct 3 17:18:31 2018 +0200
+
+    makefile working
+
+commit ce0d25e0840b6dbec03c32e19cbe2e27bdf4944a
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Tue Oct 2 17:41:37 2018 +0200
+
+    layerwork added
+
+commit f81fddd776990d26f1457892d4a477261584b25f
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Sat Oct 29 10:40:48 2018 +0200
+
+    first
+
+
