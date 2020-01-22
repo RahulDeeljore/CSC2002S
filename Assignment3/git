@@ -1,0 +1,66 @@
+rahul@rahul-VirtualBox:~/Desktop/java$ git log
+commit 657d1a741d1a89c394c2d28b5132c0e05b232620 (HEAD -> master)
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Mon Sep 17 07:07:55 2018 +0200
+
+    Javadocs added
+
+commit de517df0202fb6f71f1024dbf24a67aa357dfe1e
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Mon Sep 17 07:01:37 2018 +0200
+
+    JAVADOCS trial
+
+commit 90a364ba0bc8360c1100f0f017cb70d260f2dff8
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Mon Sep 17 06:54:02 2018 +0200
+
+    README EDITED
+
+commit 87f18283bf9bd76db4f7724ac35733f055c738de
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Sun Sep 16 16:53:44 2018 +0200
+
+    makefile modified
+
+commit aa46043bf53b050c718b9e6d0a30341559beb2a0
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Sun Sep 16 12:52:37 2018 +0200
+
+    readme added
+
+commit 3482d2acc476d8c8c72b9af22637fc97b21d9b73
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Sat Sep 15 21:49:21 2018 +0200
+
+    parallel done
+
+commit b1ecbe9e03c5a7f8271d0f6cd4b92172da0de9e4
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Sat Sep 15 21:00:53 2018 +0200
+
+    stating parallel
+
+commit 5e28b84ab9f3edf946ef494ef2e7f514ae4a2219
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Sat Sep 15 20:38:38 2018 +0200
+
+    edit sequential
+
+commit b14cbffff90b2800323e0d63f9b88bf92b737846
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Fri Sep 14 17:37:06 2018 +0200
+
+    sequential with comments
+
+commit 3238bad679e294cbf8ec34c93930efb2146137e6
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Fri Sep 14 16:55:03 2018 +0200
+
+    working sequential
+
+commit 1782bb768d3e0736a8642ee9be5b25951afab768
+Author: Rahul Deeljore <Rahul_2496@hotmail.com>
+Date:   Fri Sep 14 16:14:45 2018 +0200
+
+    first commit,created sequential and para

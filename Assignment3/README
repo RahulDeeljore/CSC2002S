@@ -1,0 +1,6 @@
+Enter make to compile files 
+Enter run to run sequential program
+Enter run1 to run parallel program
+
+The sequential program will output into a file called "output.txt"
+
