@@ -1,0 +1,17 @@
+A2 (Phase 2) What is your W()?
+Due 24 August at 09h00
+
+Marks – 70 points
+
+You need to design and prototype a more advanced water diary. You should start by listing four or more new features or design changes for the system, explaining why you think those features are useful on a mobile device. Do not just give personal opinion - think about the social issues discussed in lectures, and design patterns you may have seen in similar apps. Possible features might include visualizations for water usage, variations on the calculator, inclusion of tips for increased water saving, or dam status.
+
+Next, you need to design how the interface for this functionality will appear. To that end you need to create a prototype and annotate it with a rationale for your design; be prepared to explain why your design looks the way it does with reference to the design ideas in the lecture. Simply stating that you think your design looks nice does not constitute an acceptable rationale. The more (relevant) information you can give about why the interface looks the way it does, the more marks you will receive. Where relevant, reference specific design principles and sources using academic conventions for referencing[1]. 
+
+You do not need to implement this as an android application – you may use any prototyping tool, such as Invision, POP, Fluid UI, or PowerPoint. Hand-drawn images may also be acceptable, but you should justify and discuss the fidelity of the prototype.
+
+For this assignment, you will submit a written report of up to 3500 words, containing:
+
+Overview of the app, describing your target audience and any assumptions you have made. You will want to show how the four features you choose fit together in the overall app.
+A list of features with an explanation for their inclusion
+An initial design for each feature. This will consist of a number of screenshots, with clear markings of how one transitions from one screen to the next. It may be easiest to have a diagram with numbered elements and refer to those numbers in the text. Be sure to show how errors or edge cases would be handled in your design. Diagrams may be hand-drawn if desired but must be clear to the reader.
+For each feature, justify the design; explain why it looks and works the way it does. Do not just state the name of relevant design principles, but make an argument for why others will appreciate your design.
